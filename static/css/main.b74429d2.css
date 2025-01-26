@@ -1574,7 +1574,7 @@ ul {
   align-items: center;
   justify-content: center;
    flex-direction: column;
-  background-color: #99e9e9; 
+  
   align-items: center;
   padding-top: 20px;
   height: calc(100vh - 84px); */
@@ -1597,9 +1597,10 @@ ul {
 
 .input-area {
   text-align: center;
+
   /* font-size: 28px;
   border-radius: 20px;
-  
+  background-color: #99e9e9; 
   width: 100%;
   margin-right: 15px;
   height: 58px; */
@@ -2186,4 +2187,4 @@ Media queries
 }
 
 
-/*# sourceMappingURL=main.add7766d.css.map*/
+/*# sourceMappingURL=main.b74429d2.css.map*/
